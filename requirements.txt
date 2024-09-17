@@ -1,0 +1,5 @@
+streamlit==1.38.0
+pandas==2.2.2
+scikit-learn==1.4.2
+streamlit-option-menu==0.3.13
+
